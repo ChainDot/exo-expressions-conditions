@@ -36,7 +36,7 @@ for(let i = 0; i < text.length; ++i){
   case 'ê':
     ++nbE
   break
-  
+
   case 'a':
     ++nbA
   break
